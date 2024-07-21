@@ -1,0 +1,35 @@
+.blur-filter{
+    backdrop-filter: blur(8px);
+    background-color: rgb(255 255 255/30%);
+}
+.navbar-brand img{
+    width: 130px;
+   /* margin-left: ms;
+    margin-top: mt;
+    margin-bottom: mb;
+    margin-right: me;*/
+}
+
+.full-width{
+    width: 100%;
+    height: auto;
+}
+
+.feature-item img{
+    width: 50px;
+    height: auto;
+}
+
+section.subscripe{
+    background: url(./img/subscribe.jpg) no-repeat center center;
+}
+
+.brand-icon img{
+    width: 150px;
+}
+
+
+
+
+
+
